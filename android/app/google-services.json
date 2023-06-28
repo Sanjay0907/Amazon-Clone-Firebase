@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931151863583",
+    "project_id": "fir-470fe",
+    "storage_bucket": "fir-470fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931151863583:android:bfe22f04fde185ff2f1a2a",
+        "android_client_info": {
+          "package_name": "com.example.amazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcurkNqa1sEnuoJhZotK8HB3_HU7v3M7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
